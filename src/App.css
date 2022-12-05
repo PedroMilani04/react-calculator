@@ -4,7 +4,7 @@
 
 body {
   margin: 0px;
-  background: linear-gradient(to right, #2a3247, #3B4664, #505e86);
+  background: linear-gradient(to right, #074050, #105965, #217A79, #4C9B82, #6CC08B, #97E196, #D2F1A2);
   font-family: 'Lato', sans-serif;
 }
 
@@ -34,27 +34,27 @@ body {
 }
 
 .red {
-  background-color: #a51313;
+  background-color: #f36140;
   border-left: 0px solid;
   border-right: 0px solid;
   border-top: 0px solid;
-  border-bottom: 5px solid #7c0f0f;
+  border-bottom: 5px solid #a84c38;
   color: white;
 }
 
 .grey {
-  background-color: #647299;
+  background-color: #00718A;
   border-left: 0px solid;
   border-right: 0px solid;
   border-top: 0px solid;
-  border-bottom: 5px solid #515c7c;
+  border-bottom: 5px solid #006075;
   color: white;
   
 }
 
 
 .box {
-  background-color: #2a334d;
+  background-color: #3872719f;
   width: 34rem;
   padding: 45px;
   justify-content: center;
@@ -65,7 +65,7 @@ body {
 
 .calculator-output {
   grid-column: 1 / -1;
-  background-color: #171c2b;
+  background-color: #1d3b42b2;
   opacity: 1;
   display: flex;
   flex-direction: column;
@@ -86,11 +86,11 @@ body {
  button {
   cursor: pointer;
   font-size: 1.5rem;
-  background-color: #e9e0e0;
+  background-color: #ffffff;
   border-left: 0px solid;
   border-right: 0px solid;
   border-top: 0px solid;
-  border-bottom: 5px solid #adacac;
+  border-bottom: 5px solid #cecccc;
   border-radius: 10px;
   font-family: 'Lato', sans-serif;
 }
