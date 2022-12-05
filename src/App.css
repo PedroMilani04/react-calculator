@@ -120,7 +120,7 @@ body {
 @media(max-width: 425px) {
   .calculator-grid {
     width: 100px;
-    margin-left: 185px;
+    margin-left: 180px;
   }
 
   .box {
