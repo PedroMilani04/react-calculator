@@ -145,6 +145,7 @@ body {
 
   .calculator-grid, .box, .calculator-output {
     margin-right: 70px;
+    margin-top: 25px;
   }
 
 
