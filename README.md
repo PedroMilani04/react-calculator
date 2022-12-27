@@ -44,10 +44,7 @@ A fully functional calculator project, made with ReactJS and CSS. Has all the ba
     <td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></td>
   </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></td>
-  </tr>
+  
 </table>
 Also included are some npm libraries, such as nookies, react-modal and remask. Respectively used to manage browser cookies, create pop-ups on display, and use mask on inputs.
 
