@@ -7,7 +7,7 @@
 
   <br>
 
-  <img width="80%" src="https://github.com/ViniUme/assets/blob/master/academia_tcc.png?raw=true">
+  <img width="80%" src="https://data.terabox.com/thumbnail/59576d10de78ed4d65fcf978929cf3ee?fid=4401413037865-250528-1022916569656629&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-JhqfP6EWjQYV7Y6LdPimTYc8Xn0%3d&expires=8h&chkbd=0&chkv=0&dp-logid=286950322080124364&dp-callid=0&time=1672099200&size=c1920_u1080&quality=90&vuk=4401413037865&ft=image&autopolicy=1">
 </div>
 
 <br>
