@@ -18,16 +18,12 @@
 <br>
 
 ## About
-This project is the final thesis for the conclusion of our team's technical course in systems development. The project consists of a website based on the "Limits" gym, which we frequent.
+A fully functional calculator project, made with ReactJS and CSS. Has all the basic functions and operations of an actual calculator with a personal design.
 
 <br>
 
 ## Team
-<a href="https://github.com/Vini17MS" target="_blank">Vinícius M. Silva</a><br>
-<a href="https://github.com/FranciscoMOL" target="_blank">Miguel F. de Oliveira Leite</a><br>
-<a href="https://github.com/PedroMilani04" target="_blank">Pedro H. Milani Vágula</a><br>
-<a href="https://www.instagram.com/ark.ruan/" target="_blank">Ruan (Ark Ruan)</a><br>
-<span href="#" target="_blank">Leonardo Bertelli</span><br>
+<a href="https://github.com/PedroMilani04" target="_blank">Pedro H. Milani Vagula</a><br>
 
 <br>
 
