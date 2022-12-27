@@ -12,11 +12,6 @@
 
 <br>
 
-## Translations
-- [Português Brasileiro](https://github.com/ViniUme/LimitsGym/blob/master/translations/README-pt_br.md)
-
-<br>
-
 ## About
 A fully functional calculator project, made with ReactJS and CSS. Has all the basic functions and operations of an actual calculator with a personal design.
 
