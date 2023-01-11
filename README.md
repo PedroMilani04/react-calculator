@@ -7,7 +7,7 @@
 
   <br>
 
-  <img width="80%" src="https://data.terabox.com/thumbnail/59576d10de78ed4d65fcf978929cf3ee?fid=4401413037865-250528-1022916569656629&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-JhqfP6EWjQYV7Y6LdPimTYc8Xn0%3d&expires=8h&chkbd=0&chkv=0&dp-logid=286950322080124364&dp-callid=0&time=1672099200&size=c1920_u1080&quality=90&vuk=4401413037865&ft=image&autopolicy=1">
+  <img width="80%" src="https://data.terabox.com/thumbnail/59576d10de78ed4d65fcf978929cf3ee?fid=4401413037865-250528-1022916569656629&rt=pr&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-nv6Meu%2fbaagPS4hk%2fGBTkWcgJYE%3d&expires=8h&chkbd=0&chkv=0&dp-logid=240178416832092178&dp-callid=0&time=1673395200&size=c1920_u1080&quality=90&vuk=4401413037865&ft=image&autopolicy=1">
 </div>
 
 <br>
@@ -28,16 +28,20 @@ A fully functional calculator project, made with ReactJS and CSS. Has all the ba
     <td>Front End</td>
     <td>Back End</td>
   </tr>
-  
   <tr>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
-    <td><img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></td>
+     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></td>
+    
   </tr>
-  
+  <tr>
+    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></td>
+  </tr>
 </table>
 Also included are some npm libraries, such as nookies, react-modal and remask. Respectively used to manage browser cookies, create pop-ups on display, and use mask on inputs.
 
