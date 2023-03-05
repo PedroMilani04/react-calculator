@@ -7,7 +7,7 @@
 
   <br>
 
-  <img width="80%" src="https://drive.google.com/file/d/1IeHSLw8ONCOx2Yv9_gJHjo1r92rramzZ/view?usp=sharing">
+  <img width="80%" src="">
 </div>
 
 <br>
