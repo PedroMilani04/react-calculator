@@ -50,7 +50,7 @@ Also included are some npm libraries, such as nookies, react-modal and remask. R
 ## How to Run
 Clone this repository:
 
-    git clone https://github.com/ViniUme/LimitsGym.git
+    git clone https://github.com/PedroMilani04/react-calculator.git
     
 Have Node.js installed in your computer. With terminal opened in project folder, install the dependencies :
 
