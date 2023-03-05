@@ -7,7 +7,7 @@
 
   <br>
 
-  <img width="80%" src="https://drive.google.com/file/d/1IeHSLw8ONCOx2Yv9_gJHjo1r92rramzZ/view?usp=sharing">
+  <iframe src="https://drive.google.com/file/d/1IeHSLw8ONCOx2Yv9_gJHjo1r92rramzZ/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 
 <br>
